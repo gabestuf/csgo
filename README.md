@@ -1,1 +1,1 @@
-Gabe's csgo stuf
+Gabe's csgo config
