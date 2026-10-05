@@ -9,7 +9,6 @@
 | `M` | Sensitivity toggle |
 | `G` | Drop |
 | `Alt` | Reload |
-| `T` | Switch hands |
 | `Mouse Wheel Up` | Previous weapon |
 | `N` | Buy menu |
 | `H` | Spray |
@@ -60,7 +59,8 @@
 
 | Key | Description |
 |-----|-------------|
-| `V` | Longjump |
-| `Mouse 4` | Jumpbug |
+| `Mouse 4` | Longjump (left or right, follows hand) |
+| `T` | Switch hands + longjump direction |
+| `V` | Jumpbug |
 | `W` | Forward |
 | `D` | Right |
